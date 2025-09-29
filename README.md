@@ -2,7 +2,6 @@
 
 **Hands-on lab tasks and exercises aligned with CEH (EC-Council)** — a collection of practical ethical hacking tasks, scripts, and study notes to help students prepare for practical pentesting and CEH-style concepts.
 
----
 
 ## About
 This repository collects practical labs, exercises, scripts, and step-by-step tasks created for training in ethical hacking and penetration testing. The content is intended for students and junior pentesters who want structured, hands-on practice that mirrors CEH (EC-Council) topics.
@@ -13,8 +12,6 @@ Each task has:
 - Steps (walkthrough)
 - Expected results (what success looks like)
 - Notes & references
-
----
 
 ## Scholarship / Focus
 This repo supports a **scholarship program** (or focused study path) tailored toward **CEH (Certified Ethical Hacker) — EC-Council** material:
