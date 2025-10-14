@@ -22,3 +22,5 @@ This repo supports a **scholarship program** (or focused study path) tailored to
 - (Optional) Mentorship or peer-review sessions (if offered by maintainer)
 
 
+Disclaimer: 
+This content is for educational and authorized testing only. Do not misuse.
